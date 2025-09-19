@@ -2,10 +2,6 @@
 
 **Endplate3D-QCT** is a high-resolution dataset and benchmark designed for the automated 3D segmentation of lumbar vertebral endplates in Quantitative Computed Tomography (QCT).
 
-## Overview
-
-Endplate3D-QCT provides comprehensive data for researchers and practitioners in medical image computing, facilitating advancements in automated segmentation techniques for spinal analysis.
-
 ## Dataset
 
 The dataset is publicly available and can be accessed via Zenodo:
@@ -19,8 +15,6 @@ The dataset is publicly available and can be accessed via Zenodo:
 The evaluation pipeline for processing the dataset is available under the following code name:
 
 - **Evaluation Code:** `end_plate_postproc`
-
-Refer to the repository or contact the authors for access to the evaluation scripts and guidelines.
 
 ## Citation
 
